@@ -7,6 +7,6 @@ https://mega.nz/folder/ll9TkAAI#Fk9qo2NahiIoErFj7EmOvA
 
 How to use:
 While having the microphone active, the keyword "search" will google search anything you say after
-Ex: "search what time is it?" -> https://www.google.com/search?q=what+time+is+it
+Ex: "search what time is it" -> https://www.google.com/search?q=what+time+is+it
 
 The phrase "stop search" will close google chrome
